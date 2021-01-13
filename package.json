@@ -1,0 +1,31 @@
+{
+  "name": "dnsbrute",
+  "version": "1.0.0",
+  "description": "Simple subdomain DNS brute force in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "init": "node index.js", 
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateus4k/dnsbrute.js.git"
+  },
+  "keywords": [
+    "dns",
+    "brute force"
+  ],
+  "author": "Mateus Sampaio <mateus4k@protonmail.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateus4k/dnsbrute.js/issues"
+  },
+  "homepage": "https://github.com/mateus4k/dnsbrute.js#readme",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
