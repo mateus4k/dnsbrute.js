@@ -6,7 +6,7 @@ const print = (...args) => console.log(...args)
 
 if (process.argv.length <= 2) {
   print('Usage: npm run init <domain>')
-  process.exit(-1)
+  process.exit()
 }
 
 const domain = process.argv[2]
