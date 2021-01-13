@@ -3,5 +3,5 @@
 
 ## Usage
 ```bash
-npm run init domain.com
+npm run init <domain> <optional-wordlist>
 ```
