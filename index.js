@@ -24,7 +24,7 @@ const lookupDns = async (url) => {
   const [...args] = process.argv
 
   if (!checkArgs(args)) {
-    print('Usage: npm run init <domain>')
+    print('Usage: npm run init <domain> <optional-wordlist>')
     process.exit()
   }
 
