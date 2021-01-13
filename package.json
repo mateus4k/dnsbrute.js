@@ -1,7 +1,7 @@
 {
   "name": "dnsbrute",
   "version": "1.0.0",
-  "description": "Simple subdomain DNS brute force in Node.js",
+  "description": "A brute force script for DNS subdomains",
   "main": "index.js",
   "scripts": {
     "init": "node index.js", 
