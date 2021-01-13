@@ -1,5 +1,5 @@
 # dnsbrute.js
-> A brute force script for DNS subdomains
+> A script to find valid subdomains
 
 ## Usage
 ```bash
